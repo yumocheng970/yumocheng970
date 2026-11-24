@@ -5,6 +5,17 @@ I'm an MS Computer Science student at **Northeastern University (Khoury College)
 🔭 Looking for a **Spring/Summer 2027 software engineering co-op or internship**, open to any location.<br>
 🌐 **[yumocheng.vercel.app](https://yumocheng.vercel.app)** — my portfolio, with a live AI chat you can ask about my work.
 
+**[Portfolio](https://yumocheng.vercel.app)** · **[LinkedIn](https://linkedin.com/in/kalcheng970)** · **[Email](mailto:yumocheng970@gmail.com)**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
 ---
 
 ### 💼 Experience
